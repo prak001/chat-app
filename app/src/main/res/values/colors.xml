@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26A69A</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_login">#428bca</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+
+    <color name="btn_login">#3775ab</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+    <color name="colorFooter">#b02251</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="reject">#a5c7eb</color>
+    <color name="order_heading">#333</color>
+    <color name="order_inside">#484c75</color>
+    <color name="black">#000000</color>
+
+    <color name="grey">#A3A3A3</color>
+
+    <color name="blue">#465691</color>
+    <color name="light_grey">#DCDDE6</color>
+
+    <color name="background">#eeeeee</color>
+    <color name="line">#cccccc</color>
+    <color name="light_black">#666666</color>
+    <color name="lighter_black">#999999</color>
+
+    <color name="dark_blue">#40257a</color>
+    <color name="purple">#ac9ad3</color>
+
+    <color name="multiple_image_select_primary">@color/colorPrimary</color>
+    <color name="multiple_image_select_primaryDark">@color/colorPrimaryDark</color>
+    <color name="multiple_image_select_accent">@color/colorAccent</color>
+    <color name="blue1">#475596</color>
+    <color name="yellow">#f9dc85</color>
+    <color name="green">#40c351</color>
+    <color name="white">#ffffff</color>
+    <color name="categorySelected">#80deea</color>
+
+    <color name="text_grey">#606060</color>
+</resources>
